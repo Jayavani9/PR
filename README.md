@@ -1,0 +1,2 @@
+# Pattern_Recognition
+Pattern_Recognition_Assignments
